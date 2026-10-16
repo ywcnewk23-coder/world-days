@@ -1,5 +1,5 @@
 (() => {
-  const events = window.WORLD_DAYS_DATA || [];
+  const events = window.WORLD_DAYS || [];
   const $ = (s) => document.querySelector(s);
   const calendarGrid = $("#calendar-grid");
   const eventList = $("#event-list");
