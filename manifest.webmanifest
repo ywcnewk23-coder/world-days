@@ -1,0 +1,20 @@
+{
+  "name": "World Days｜世界の記念日カレンダー",
+  "short_name": "World Days",
+  "description": "世界各国の建国・独立・統一・国民の記念日を調べるカレンダー",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#142b4d",
+  "background_color": "#f6f8fb",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
